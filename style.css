@@ -8,7 +8,7 @@ strong {
   font-weight: 700;
 }
 .color {
-   width: 10%;
+   width: 100px;
    margin: .5em;
    background: #efefef;
    padding-bottom: 1em;
@@ -17,7 +17,7 @@ strong {
    vertical-align: top;
 }
 .color__block {
-  height: 8em;
+  height: 100px;
   margin-bottom: 1em;
 }
 .color__name {

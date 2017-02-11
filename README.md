@@ -1,4 +1,4 @@
-Displaying a JSON list of color names and hex codes with jQuery
+Displaying a JSON data file of color names and hex codes with jQuery
 
 Demo: https://karisabinemalmin.github.io/json-colors/
 

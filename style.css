@@ -1,15 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+
+body {
+  color: #333;
+  line-height: 1.5em;
+}
+strong {
+  font-weight: 700;
+}
 .color {
-   width: 15%;
-   font-size: .8em;
+   width: 10%;
    margin: .5em;
    background: #efefef;
    padding-bottom: 1em;
-   font-family: Helvetica;
+   font-family: Roboto;
    display: inline-block;
-}
-.color__name {
-  padding: 1em;
+   vertical-align: top;
 }
 .color__block {
   height: 8em;
+  margin-bottom: 1em;
+}
+.color__name {
+  font-size: .9em;
+  padding: 0 1em;
 }

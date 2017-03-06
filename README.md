@@ -1,6 +1,7 @@
-# Toggle items with number
+## Displaying a JSON data file of color names and hex codes with jQuery
 
-A little script using HTML5 data attributes. Set how many items you want each list to show, and the script figures out how many should be hidden, hides them, and makes a button with the number of hidden items.
+Demo: https://karisabinemalmin.github.io/json-colors/
 
-https://karisabinemalmin.github.io/toggle-number-items/
-# toggle-items-number
+Data via https://github.com/dariusk/corpora
+
+![alt tag](screenshot.png)
